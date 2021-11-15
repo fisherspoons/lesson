@@ -1,4 +1,4 @@
-# todo-app
+# Lessons
 
 ## Project setup
 ```
